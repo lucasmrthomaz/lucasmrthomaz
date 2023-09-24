@@ -7,7 +7,6 @@
 - 📫 How to reach me on 
 Email: lucasmrthomaz@outlook.com
 Discord: lucasmrthomaz
-Telegram: @lucasmrthomaz
 
 <!---
 lucasmrthomaz/lucasmrthomaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
