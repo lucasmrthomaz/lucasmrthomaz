@@ -1,12 +1,21 @@
-- 👋 Hi, I’m Lucas Thomaz
-- 👀 I’m interested in C#/Java, JS/TS, Rust/Ruby/Go, Python, Dart/Flutter.
-- 🌱 I’m currently learning: Rust + Python for Machine Learning (WebGPU, WebGL, DirectML, ONNX, LLVM-MLIR, GLSL/HSL(shader-language)
-- 💞️ To provide: High level ML/AI interoperability tools between .NET/Mono <-> Rust <-> Python <-> GraalVM (High perf. Java/Kotlin) 
-- 🌱 I've learned: .NET MAUI, Web-3/IPFS, Smart contracts, NLP(Natural Language Processing), Compiler related(LLVM,AST,CST,Linker,IL,Bytecode), Terraform.
-- 💞️ I’m looking to collaborate on open source projects like dotnet Roslyn, dotnet MAUI, 2d/3d game development, ReactOS, Machine Learning, Web3 DApps and more
-- 📫 How to reach me on 
+👋 Olá, sou Lucas Thomaz!
+
+👀 Sou apaixonado por tecnologia e tenho interesse em uma ampla gama de linguagens e frameworks, incluindo C#/Java, JS/TS, Rust/Ruby/Go, Python e Dart/Flutter.
+
+🌱 No momento, estou estudando a fundo em Rust/GO/Python, com foco em Machine Learning e tecnologias como WebGPU, WebGL, DirectML, ONNX, LLVM-MLIR, GLSL/HSL (shader-language).
+
+💡 Dentre meus objetivos, fornecer ferramentas de interoperabilidade que facilitem a vida e sejam de alto nível entre plataformas como .NET/Mono, Rust, Python, Runtime do GraalVM (aproveitando ao máximo o desempenho de Java/Kotlin).
+
+🚀 Já conquistei conhecimentos em .NET MAUI, Web-3(IPFS), NLP (Processamento de Linguagem Natural), tecnologias que envolvem compiladores como LLVM, AST, CST, Linker, IL, Bytecode, além de HyperV/KVM/QEMU/Docker-K8S.
+
+💞️ Estou sempre em busca de novas oportunidades para colaborar em projetos open source. Adoro contribuir com projetos open-source!
+
+📫 Vamos nos conectar! Você pode me encontrar em:
 Email: lucasmrthomaz@outlook.com
 Discord: lucasmrthomaz
+WhatsApp: (21)96565-0907
+
+Vamos transformar ideias em realidade juntos! 🚀
 
 <!---
 lucasmrthomaz/lucasmrthomaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
