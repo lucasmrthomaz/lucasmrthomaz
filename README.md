@@ -11,9 +11,9 @@
 💞️ Estou sempre em busca de novas oportunidades para colaborar em projetos open source. Adoro contribuir com projetos open-source!
 
 📫 Vamos nos conectar! Você pode me encontrar em:
-Email: lucasmrthomaz@outlook.com
-Discord: lucasmrthomaz
-WhatsApp: (21)96565-0907
+- Email: lucasmrthomaz@outlook.com
+- Discord: lucasmrthomaz
+- WhatsApp: (21)96565-0907
 
 Vamos transformar ideias em realidade juntos! 🚀
 
