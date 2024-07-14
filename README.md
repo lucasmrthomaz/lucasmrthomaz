@@ -12,8 +12,6 @@
 
 📫 Vamos nos conectar! Você pode me encontrar em:
 - Email: lucasmrthomaz@outlook.com
-- Discord: lucasmrthomaz
-- WhatsApp: (21)96565-0907
 
 Vamos transformar ideias em realidade juntos! 🚀
 
