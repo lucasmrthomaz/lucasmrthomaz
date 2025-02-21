@@ -1,24 +1,19 @@
-# ✨ Olá, sou Lucas Thomaz! 
+✨ Hello, I'm Lucas Thomaz!
+Full Software Engineer
 
-### Full Software Engineer
-- Desktop / Web + Mobile / IoT
-- Qualified low level programming near bare metal (C-like)
+    Desktop / Web + Mobile / IoT
+    Qualified in low-level programming near bare metal (C-like)
 
+👀 I'm passionate about technology and have a broad interest in various languages and frameworks, including C#/Java, JS/TS, Rust/Ruby/Go, Python, and Dart/Flutter.
 
-👀 Sou apaixonado por tecnologia e tenho interesse em uma ampla gama de linguagens e frameworks, incluindo C#/Java, JS/TS, Rust/Ruby/Go, Python e Dart/Flutter.
+💡 One of my main goals is to provide high-level interoperability tools that make life easier across platforms like .NET/Mono, Rust, Python, and the GraalVM Runtime—leveraging the full performance of Java/Kotlin.
 
-💡 Dentre meus objetivos, fornecer ferramentas de interoperabilidade que facilitem a vida e sejam de alto nível entre plataformas como .NET/Mono, Rust, Python, Runtime do GraalVM (aproveitando ao máximo o desempenho de Java/Kotlin).
+🚀 I have acquired knowledge in .NET MAUI, Web3 (IPFS), NLP (Natural Language Processing), compiler-related technologies such as LLVM, AST, CST, Linker, IL, Bytecode, as well as HyperV/KVM/QEMU/Docker-K8S.
 
-🚀 Já conquistei conhecimentos em .NET MAUI, Web3(IPFS), NLP (Processamento de Linguagem Natural), tecnologias que envolvem compiladores como LLVM, AST, CST, Linker, IL, Bytecode, além de HyperV/KVM/QEMU/Docker-K8S.
+💞️ I'm always looking for new opportunities to collaborate on open-source projects. I love contributing to open-source!
 
-💞️ Estou sempre em busca de novas oportunidades para colaborar em projetos open source. Adoro contribuir com projetos open-source!
+📫 Let's connect! You can reach me at:
 
-📫 Vamos nos conectar! Você pode me encontrar em:
-- Email: lucasmrthomaz@outlook.com
+    Email: lucasmrthomaz@outlook.com
 
-Vamos transformar ideias em realidade juntos! 🚀
-
-<!---
-lucasmrthomaz/lucasmrthomaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's turn ideas into reality together! 🚀
