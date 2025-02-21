@@ -1,5 +1,5 @@
-✨ Hello, I'm Lucas Thomaz!
-Full Software Engineer
+# ✨ Hi, I'm Thomaz!
+## Full Software Engineer
 
     Desktop / Web + Mobile / IoT
     Qualified in low-level programming near bare metal (C-like)
