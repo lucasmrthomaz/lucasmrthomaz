@@ -3,9 +3,13 @@
 
 > *Transformando problemas complexos de software em soluções eficientes, escaláveis e de alta performance — do metal (baixo nível) à nuvem.*
 
+
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/lucasmrthomaz)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmrthomaz@gmail.com)
 [![Portfolio/Website](https://img.shields.io/badge/Website-121011?style=for-the-badge&logo=react&logoColor=white)](lucasmrthomazdev.com.br)
+
+> Confira: https://github.com/EcossistemaTHZ e https://github.com/THZ-Lang
 
 ---
 
