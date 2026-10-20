@@ -10,6 +10,8 @@
 [![Portfolio/Website](https://img.shields.io/badge/Website-121011?style=for-the-badge&logo=react&logoColor=white)](lucasmrthomazdev.com.br)
 
 > Confira: https://github.com/EcossistemaTHZ e https://github.com/THZ-Lang
+> - THZ-Lang (https://github.com/THZ-Lang)
+> - Demais códigos / softwares (https://github.com/EcossistemaTHZ)
 
 ---
 
